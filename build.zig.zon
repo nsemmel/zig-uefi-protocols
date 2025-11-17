@@ -1,0 +1,7 @@
+.{
+    .name = .zig_uefi_protocols,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.2",
+    .fingerprint = 0xeb50015336578aa0,
+    .paths = .{ "build.zig", "build.zig.zon", "src" },
+}
